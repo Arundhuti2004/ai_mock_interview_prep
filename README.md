@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # ai-mock-interview
 >>>>>>> 086b0a3d4ad2c10d0152afabd28c257288feb1d0
+=======
+# ai_mock_interview_prep
+>>>>>>> 207f8b226e8820f2a25985e727a053915a96369f
