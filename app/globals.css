@@ -270,7 +270,7 @@
   }
 
   .interviews-section {
-    @apply flex flex-col sm:flex-row sm:flex-wrap gap-4 w-full items-stretch;
+    @apply flex flex-wrap  gap-4 max-lg:flex-col w-full items-stretch;
   }
 
   .interview-text {
@@ -286,7 +286,7 @@
   }
 
   .card-interview {
-    @apply dark-gradient rounded-2xl min-h-full flex flex-col p-6 relative overflow-hidden gap-10 justify-between;
+    @apply dark-gradient rounded-2xl min-h-full flex flex-col justify-between p-6 relative overflow-hidden gap-10 ;
 
     .badge-text {
       @apply text-sm font-semibold capitalize;
